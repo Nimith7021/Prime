@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\bin\Debug\Prime.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\bin\Debug\Prime.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\bin\Debug\Prime.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\obj\Debug\Prime.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\Prime\obj\Debug\Prime.pdb
